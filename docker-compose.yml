@@ -1,0 +1,7 @@
+
+services:
+  custom_mongo:
+    container_name: custom_mongo
+    build: 
+      context: .
+      dockerfile: Dockerfile
