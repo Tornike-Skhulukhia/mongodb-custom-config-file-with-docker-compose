@@ -1,0 +1,1 @@
+Mongodb with custom configuration file with docker-compose example
